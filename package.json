@@ -1,0 +1,19 @@
+{
+  "name": "pw-assignment",
+  "version": "1.0.0",
+  "description": "Playwright Automation Framework",
+  "scripts": {
+    "test": "npx playwright test",
+    "show-report": "npx playwright show-report reports",
+    "test:with_report": "npm run test && npm run show-report",
+    "test:headed": "npx playwright test --headed"
+  },
+  "keywords": [],
+  "author": "Nasir",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
