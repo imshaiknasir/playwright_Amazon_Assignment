@@ -9,7 +9,7 @@ To set up the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:imshaiknasir/playwright_Amazon_Assignment.git
    cd playwright_Amazon_Assignment
    ```
 
